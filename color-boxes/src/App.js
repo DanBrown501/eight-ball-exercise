@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import EightBall from "./EightBall";
+import BoxesContainer from "./BoxesContainer";
 
 function App() {
   return (
     <div className="App">
-      <EightBall />
+      <BoxesContainer />
     </div>
   );
 }
